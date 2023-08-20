@@ -1,15 +1,15 @@
 {
-  "version": "0.0.2",
-  "notes": "Test Release",
-  "pub_date": "2023-08-20T08:19:49.075Z",
+  "version": "2.0.0",
+  "notes": "Initial release.",
+  "pub_date": "2023-08-20T09:12:28.962Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPam16N2Z2QWcrZWN1VnNPWCtUcWxJTGJKdkFhMkkzTTBBbTRHTFBpWlZjVWg3aXRaRG40clk3b1BraFNWRnhzbVRuK2VJT1RURXhEaUt6Y3RJMlAybHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTE5MTI4CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKMHJNOURWaHB2TDNTdUJhclNEcHgxb1JPb1IybHhTM3U3ZmRrNzB1bzJvOS9qeXJrTndtRFVzeGRKSTdBSnphYllPT2lmRy94WERlNnNyOVNoc1NZQlE9PQo=",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v0.0.1/HBView_aarch64.app.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanF5enNmbmROODJ0bndDWHZyNzhrN0FDMlF2aUE5ODVPa1pFYTJjcTljbXRTUWpCb0tyYXlkdXJ4WERyckhtYVhneUVFdXBSeDFkTmtjYWZXZ2daZXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTE5NTgwCWZpbGU6SEJWaWV3XzAuMC4xX3g2NF9lbi1VUy5tc2kuemlwCjFyTEZVd0x2VVl6S20vS3d6M2t3d2VVOC9hTGc2SWozOVVtUlRZbkhGUTgrMHpYQW1lRmFMMjF0U2FRVVVOZG1mVGs4MEN0RVRlQVo2N2FWZlR2bURBPT0K",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v0.0.1/HBView_0.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanFwbzNpbGdtNTFOeFgxamJ6R05hZ3UxVkVuVjQ0clBHVEN5eUJHQnNzb0dhemYrd0l2U3pqUnZwdHg3UXZjWDEwL1ZyWGNyRFVUek0xUVhnYStrYVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTIyNjgyCWZpbGU6SEJWaWV3XzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwClk0SWc4TGFOQzl5WncwYkdlMkFEMk90Ky9JNmJoY2lHRGJjTW1HdXFhMTFjYUhkcy81S090L051ckpKSVpNZzYwWlZVQXAydEI3enJGaUw0VEV4QkFnPT0K",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.0/HBView_2.0.0_x64_en-US.msi.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanBJY0hLM29ldDZ5UVM4V3krZk9Ka2U5Vk1MNWdvcjgyRjNiSTJRNGR5Q0RXbzlHMkhON01BaFRVNzV2UFVhM2ozVnp0QnpjbWNFb3FJckxMcUlNcFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTIyNzQ1CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKOTgxeUx6bU9zNC9rcm9yYmhBZmFETmJtYlViZm04blI2d3U1RzE4VFNRZHNscG9vY21PV2VLZ05qbkg2aElzTGZ3MW5qcFBxa0QzUDJjRVhHUzI5QUE9PQo=",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.0/HBView_aarch64.app.tar.gz"
     }
   }
 }
