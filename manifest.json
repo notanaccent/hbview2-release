@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "notes": "Test Release",
+  "pub_date": "2023-08-20T08:19:49.075Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPam16N2Z2QWcrZWN1VnNPWCtUcWxJTGJKdkFhMkkzTTBBbTRHTFBpWlZjVWg3aXRaRG40clk3b1BraFNWRnhzbVRuK2VJT1RURXhEaUt6Y3RJMlAybHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTE5MTI4CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKMHJNOURWaHB2TDNTdUJhclNEcHgxb1JPb1IybHhTM3U3ZmRrNzB1bzJvOS9qeXJrTndtRFVzeGRKSTdBSnphYllPT2lmRy94WERlNnNyOVNoc1NZQlE9PQo=",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v0.0.1/HBView_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanF5enNmbmROODJ0bndDWHZyNzhrN0FDMlF2aUE5ODVPa1pFYTJjcTljbXRTUWpCb0tyYXlkdXJ4WERyckhtYVhneUVFdXBSeDFkTmtjYWZXZ2daZXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNTE5NTgwCWZpbGU6SEJWaWV3XzAuMC4xX3g2NF9lbi1VUy5tc2kuemlwCjFyTEZVd0x2VVl6S20vS3d6M2t3d2VVOC9hTGc2SWozOVVtUlRZbkhGUTgrMHpYQW1lRmFMMjF0U2FRVVVOZG1mVGs4MEN0RVRlQVo2N2FWZlR2bURBPT0K",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v0.0.1/HBView_0.0.1_x64_en-US.msi.zip"
+    }
+  }
+}
