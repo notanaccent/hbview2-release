@@ -1,15 +1,15 @@
 {
-  "version": "2.0.2",
-  "notes": "Support for DJI ZH20N and other improvements.",
-  "pub_date": "2023-08-27T12:23:17.293Z",
+  "version": "2.0.3",
+  "notes": "Improve shapefile export, hotkeys, and drawing.",
+  "pub_date": "2023-09-02T17:11:46.435Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanBvM05Bemt5M1NsNU9oZEFjOFdPb2R5cEMwOGdWUjBBUCtUNmxxb1IxSjIzeE9ITEZEUk5pSnFsSG9oendWMFR4R3NXRFNmNzgrWDFPWUo2TzdNWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzMTM4OTI4CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKVjFqTkJHaDgvRE5LRXdRREpLN2hhYldKQnd3YkdHOUN3R2M2ak9FLzdVNFNOa1h3ZGdmQ2pzem9YQ1g5NWNMUnBWWUc2QWJCdU42QnJvZmRITnRjRGc9PQo=",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.2/HBView_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPamlvQWhvMTdNbklMQ3RxM3lXSmdhTEM0YW9pYWJSVFk0S1FOVjNXVlZkaTI1SGtYWmdsbDhZNXV3QWF0UXQwYUxxQUtJcWwxNjY1ejQyaUtMdkpYblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzNjc0MjY5CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKYmEwT25jWjFTSjRqckxZTEZoN0wwTUpNbVdtZW5EMG43blAxcllPQUxSVnhieEc0emdCcG9pd3Bra2N0em9GeXU1YmJjWlJqWkRhRHlPd0s2U2dqQ2c9PQo=",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.3/HBView_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanU3WXZWN2gzcEkzMlByV0laVTRUYnpJNHN5RThiNnREczhhL1RNaFF5OUpSdXcyb3drWTJJWmV6T20waTZNNEluNkhGUmY2WmdHSUxzUTBJYWZiQVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzMTM4OTkxCWZpbGU6SEJWaWV3XzIuMC4yX3g2NF9lbi1VUy5tc2kuemlwCi8vZEFRYmZHTTdJaTRjd3d4MnJodXU2T0owNXM0bmZxakJBZW5nUU9nak55L0dLdWlnTmtEQ0QvdFpyQlJac1d1empTSWVmemFlZjE0V0xMREpGckNBPT0K",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.2/HBView_2.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanR2ZVE3Y2NWY1k1OHRITWd6MHYyRHBiQW5ySWJ0bHFKM2VuejgxNG9HYmZIRkVFOUxjMDBSeHdCdHlZM093OHFIQ2x0T2paclNzbkNTeHRlWUxKVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzNjc0Njk4CWZpbGU6SEJWaWV3XzIuMC4zX3g2NF9lbi1VUy5tc2kuemlwCmZDQlV0Q2o0OVp0VHhBbVhsQnlmK21YNUZRM0NrNDM2VzVENmpocjROZXg5aVVLY1luOFk5eENycnhxRGk4OEJrRW1aZ0pYeG1yZ2Zxb09JMmRaUEFRPT0K",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.3/HBView_2.0.3_x64_en-US.msi.zip"
     }
   }
 }
