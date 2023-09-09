@@ -1,15 +1,15 @@
 {
-  "version": "2.0.3",
-  "notes": "Improve shapefile export, hotkeys, and drawing.",
-  "pub_date": "2023-09-02T17:11:46.435Z",
+  "version": "2.0.4",
+  "notes": "Folder watch and improved error handling.",
+  "pub_date": "2023-09-09T09:50:37.963Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPamlvQWhvMTdNbklMQ3RxM3lXSmdhTEM0YW9pYWJSVFk0S1FOVjNXVlZkaTI1SGtYWmdsbDhZNXV3QWF0UXQwYUxxQUtJcWwxNjY1ejQyaUtMdkpYblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzNjc0MjY5CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKYmEwT25jWjFTSjRqckxZTEZoN0wwTUpNbVdtZW5EMG43blAxcllPQUxSVnhieEc0emdCcG9pd3Bra2N0em9GeXU1YmJjWlJqWkRhRHlPd0s2U2dqQ2c9PQo=",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.3/HBView_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanBSVGFpK3p5b3pESGx5M2ZxR3BWZjN0b3BrdG5VZnpnd1BybmMwWVhTQVpORWxLbVZPQldmazhKbmM4a2ZIM3hxVTlodnhYRGhCcW5oaUh3Ynhnd2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MjUyNjQzCWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKRFVtY1BPZjkvdEhUQXAxTkVGNHVBTWtWdzhPWDFHMmY1YjUzcDRhN0tYZjdkUHRiaEFSR1hWQzU5L1V3Z25rY0UzUldER0phMjJJK2dmSi9sTFNlQ2c9PQo=",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.4/HBView_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanR2ZVE3Y2NWY1k1OHRITWd6MHYyRHBiQW5ySWJ0bHFKM2VuejgxNG9HYmZIRkVFOUxjMDBSeHdCdHlZM093OHFIQ2x0T2paclNzbkNTeHRlWUxKVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzNjc0Njk4CWZpbGU6SEJWaWV3XzIuMC4zX3g2NF9lbi1VUy5tc2kuemlwCmZDQlV0Q2o0OVp0VHhBbVhsQnlmK21YNUZRM0NrNDM2VzVENmpocjROZXg5aVVLY1luOFk5eENycnhxRGk4OEJrRW1aZ0pYeG1yZ2Zxb09JMmRaUEFRPT0K",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.3/HBView_2.0.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPamtZbUpsdjJCbnFmM1ozMm9TS0FNUm1NNnVmbVZWN3JrUVl3UkJuaG1QK2owWURrQ21yY1ArekF2cU1UeXU1Q1hOTm5MT3ZxaWZ2ZllkL1huZkxJbVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MjUzMDMxCWZpbGU6SEJWaWV3XzIuMC40X3g2NF9lbi1VUy5tc2kuemlwCjJmU0wvZlk4cGg2QU1WVGxGT0RmbU9QczlmU2s4RlBJMSszeEVRRm0wRTdZNnhndXczYjlMN3JTWXpwYXdSVzhybjY4ZnJLcy9QMzZvdUt2SFdXb0JBPT0K",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.4/HBView_2.0.4_x64_en-US.msi.zip"
     }
   }
 }
