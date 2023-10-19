@@ -1,15 +1,15 @@
 {
-  "version": "2.0.8",
-  "notes": "Annotation and hotkey bug fixes.",
-  "pub_date": "2023-10-10T23:06:09.312Z",
+  "version": "2.0.9",
+  "notes": "Annotation counter. Manual imagram scale. M30T & M3T support.",
+  "pub_date": "2023-10-19T10:49:45.396Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPamhOTm94RUhnMkQ0U0w3ZURxVDNkbE5WZnVRVzBxeFdsdEFWdnZXL2FDYys2TXd4U3hqV0s2S2pRVGcxZ3A4VGJsaVA5OTcxNE14UXNZVmlxVDYvaXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2OTc5MDI2CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKZDZtdVY1TENHdWczMllZRlBWb3plU1U2RWNGbzhONGppSGh0SjlZZzloQm1IZmxCdUQybXl6dlZMTGNobzlJRFRaNDQvRHRuRVhCUS9GeGtCZGhtQVE9PQo=",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.8/HBView_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanFIMFlLWW85R3RRb1F4Rm5CUDFXM2RpUU1zUlNnTVV5UmNVQzlFa2JkZlhyLzVndWU0ZVM4dGZndlVZTnVMajRSRWYvRWFxcjgzTUl0Z2VNR1Z6VmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NzEyMjA0CWZpbGU6SEJWaWV3LmFwcC50YXIuZ3oKbHVRVnVKYlBLY3NHdTkzYjVaZ2lsVXRtdXMxUG9Fa0hGd202SWRBd3JQVnE5N0VTSlFyYVZVZUtLZW50SnVaOGVTaTFKZ1V3ZUNZYVVyb0ZuMVJnQVE9PQo=",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.9/HBView_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanFEdkxta3FXaHRraStjd3NoUzRVcnFIbHhnd2RleS9pcGVEQ0tXWmRRb0Iya2phM3NQeDM3R1UvMnV2OXZUZlZLanRoc0xXdjNINVVNQ0NXZjNCN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2OTc5MTYwCWZpbGU6SEJWaWV3XzIuMC44X3g2NF9lbi1VUy5tc2kuemlwCjVzRFp2eFVJTGp2RDhDODlmcEM4TnhBN3g1cGN6a0N3bEkrMWI2K3V4QU0rbDFFTElFTVRrRVg3eDhqN1A2eDRnQ1JPL0VIVTFSa2RRV0JqM2JiSEJBPT0K",
-      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.8/HBView_2.0.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnhQYzVBUkxPanUxZ3N2MDFLYmJUYzQya0Rabi9UVTFhbWV5NjdMcW9TOFRMaHhwRjNvdHBOK2I2U2FFWHJ5WGxtbUxkUnA0TnoweDJzVmNFUG45aExKYmVjaUpyUEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NzEyNTc5CWZpbGU6SEJWaWV3XzIuMC45X3g2NF9lbi1VUy5tc2kuemlwCllRa2hmTGNnWE5RRllJM0lRSHlIcWFSeTNWTEJSd2RwK3NIT1Z5K1pWNnJpaDY0MktCR2hRMUNxSXpGU0JRTW9EczBsUlRPVzJmNGxXK2J4ODdnckFRPT0K",
+      "url": "https://github.com/notanaccent/hbview2-release/releases/download/v2.0.9/HBView_2.0.9_x64_en-US.msi.zip"
     }
   }
 }
